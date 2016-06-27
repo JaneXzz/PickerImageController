@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "97C19DA09FD1FC97124DC7E780C2B03C176342F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1BFAF3B5A59BC811071EE3A17A183C54E45F4AD3" : 0,
+    "97C19DA09FD1FC97124DC7E780C2B03C176342F2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7EDAFF46-A706-4B53-BFE0-977228504C32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1BFAF3B5A59BC811071EE3A17A183C54E45F4AD3" : "PickerImageController\/PickerImageController\/aa\/AddressBook\/",
+    "97C19DA09FD1FC97124DC7E780C2B03C176342F2" : "PickerImageController\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PickerImageController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PickerImageController\/PickerImageController.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JaneXzz\/AddressBook.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1BFAF3B5A59BC811071EE3A17A183C54E45F4AD3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JaneXzz\/PickerImageController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "97C19DA09FD1FC97124DC7E780C2B03C176342F2"
+    }
+  ]
+}
